@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://www.davidcgregor.dev">
-    <h1> 
+  <h1> 
+    <a href="https://www.davidcgregor.dev">
       David McGregor 
-    </h1>
-  </a>
+    </a>
+  </h1>
   <a href="https://www.davidcgregor.dev">
     <img src="https://cdn0.iconfinder.com/data/icons/entypo/80/link5-512.png" alt="link-icon" height="38" width="38" hspace="20">
   </a>
