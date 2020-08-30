@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 
-    <a href="https://www.davidcgregor.dev">
+    <a href="https://www.davidmcgregor.dev">
       David McGregor 
     </a>
   </h1>
