@@ -5,7 +5,7 @@
     <img src="https://cdn0.iconfinder.com/data/icons/entypo/80/link5-512.png" alt="link-icon" height="40" width="40" hspace="20">
   </a>
   <a href="https://www.linkedin.com/in/david-mcgregor-49b2a361">
-    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png"
+    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20">
   </a>
   <a href="https://github.com/davmcgregor">
     <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20"></a>
