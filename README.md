@@ -2,10 +2,10 @@
   
 <h1> David McGregor </h1>
   <a href="https://www.davidcgregor.dev">
-    <img src="https://cdn0.iconfinder.com/data/icons/entypo/80/link5-512.png" alt="link-icon" height="40" width="40" hspace="20">
+    <img src="https://cdn0.iconfinder.com/data/icons/entypo/80/link5-512.png" alt="link-icon" height="38" width="38" hspace="20">
   </a>
   <a href="https://www.linkedin.com/in/david-mcgregor-49b2a361">
-    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20">
+    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="38" width="38" hspace="20">
   </a>
   <a href="https://github.com/davmcgregor">
     <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20"></a>
@@ -17,7 +17,7 @@
 
 </div>
 
-I am a **full-stack software developer** and tech enthusiast working in London. My love of coding grew throughout my former career as a digital communications specialist, where I advised political, government and community organisations back home in Australia. Now I'm helping dev teams build great technology and expanding my programming knowledge!
+I'm a **full-stack software developer** and tech enthusiast working in London. My love of coding grew throughout my former career as a digital communications specialist, where I advised political, government and community organisations back home in Australia. Now I'm helping dev teams build great technology and expanding my programming knowledge!
 
 ## Tech Skills
 <div align="center">
