@@ -4,7 +4,7 @@
       David McGregor 
     </a>
   </h1>
-  <a href="https://www.davidcgregor.dev">
+  <a href="https://www.davidmcgregor.dev">
     <img src="https://cdn0.iconfinder.com/data/icons/entypo/80/link5-512.png" alt="link-icon" height="38" width="38" hspace="20">
   </a>
   <a href="https://www.linkedin.com/in/david-mcgregor-49b2a361">
