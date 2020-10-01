@@ -41,4 +41,4 @@ React, Redux, Vue, Node.js, Express, Docker, TailwindCSS, Material-UI, PostgreSQ
 - Fast learner who thrives on challenges and keeping on top of the latest trends
 - Passionate about effective teamwork, problem solving and professional development
 - Advanced communications skills across digital strategy, public relations, supporter growth, social media, fundraising and campaigns
-- Experienced in Social Media Marketing,the Adove Creative Suite, Google Analytics and SEO
+- Experienced in Social Media Marketing,the Adobe Creative Suite, Google Analytics and SEO
