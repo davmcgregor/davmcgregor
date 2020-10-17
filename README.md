@@ -24,15 +24,7 @@
 I'm a **full-stack software developer** and tech enthusiast working in London. My love of coding grew throughout my former career as a digital communications specialist, where I advised political, government and community organisations back home in Australia. Now I'm helping dev teams build great technology and expanding my programming knowledge!
 
 ## Tech Skills
-<div align="center">
-<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/Ruby-466%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/JavaScript-461%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/CSS-447%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/HTML-389%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/SQL-42%20commits-blue.svg" alt=""></a>
-</div>
 
-### Working mainly in:
 React, Redux, Vue, Node.js, Express, Docker, TailwindCSS, Material-UI, PostgreSQL, MongoDB, CraftCMS, Twig, Rails, Ruby, APIs, AWS, Git, Heroku, Test-driven development, Pair programming, Agile methodology
 
 ## Other Skills
