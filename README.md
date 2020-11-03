@@ -25,7 +25,7 @@ I'm a **full-stack software developer** and tech enthusiast working in London. M
 
 ## Tech Skills
 
-React, Redux, Vue, Node.js, Express, Docker, TailwindCSS, Material-UI, PostgreSQL, MongoDB, CraftCMS, Twig, Rails, Ruby, APIs, AWS, Git, Heroku
+React, React Native, Redux, Vue, Node.js, Express, Docker, TailwindCSS, Material-UI, PostgreSQL, MongoDB, CraftCMS, Twig, Rails, Ruby, APIs, AWS, Git, Heroku
 
 ## Other Skills
 
