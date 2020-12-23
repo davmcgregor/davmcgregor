@@ -9,7 +9,7 @@
 
 </div>
 
-I'm a **full-stack software developer** and tech enthusiast working in London. My love of coding grew throughout my former career as a digital communications specialist, where I advised political, government and community organisations back home in Australia. Now I'm helping dev teams build great technology and expanding my programming knowledge!
+I'm a **full-stack software developer** and tech enthusiast working in London. My love of coding grew throughout my former career as a digital communications specialist, where I advised political, government and community organisations back home in Australia. Now I'm helping dev teams build great technology and expanding my programming knowledge.
 
 ## Tech Skills
 
