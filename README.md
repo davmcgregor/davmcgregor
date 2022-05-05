@@ -5,7 +5,7 @@
     </a>
   </h1>
   
- **Software developer based in London.**<br/>
+ **Software developer based in New York City**<br/>
 
 </div>
 
